@@ -1,0 +1,17 @@
+Python
+pycache/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+Local env
+.venv/
+.env
+
+Data (no PHI)
+data/
+!data/README.md
+
+Builds
+dist/
+*.egg-info/
